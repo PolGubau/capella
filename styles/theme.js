@@ -10,3 +10,7 @@ export const colors = {
     primary: '#0099ff',
     secondary: '#1c5480'
 }
+
+export const breakPoints={
+    mobile: '520px'
+}
